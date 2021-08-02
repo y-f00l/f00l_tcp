@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/slt/Desktop/sponge/libsponge/byte_stream.cc
+byte_stream.hh
+/home/slt/Desktop/sponge/libsponge/byte_stream.hh
+iostream
+-
+
+/home/slt/Desktop/sponge/libsponge/byte_stream.hh
+string
+-
+
